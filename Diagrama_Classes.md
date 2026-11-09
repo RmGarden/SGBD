@@ -56,7 +56,6 @@ Um **Diagrama de Classes** (em UML) é como a planta de uma casa desenhada por u
 Cada caixa de classe divide-se em três partes:
 1. **Nome da Classe** (topo)
 2. **Atributos** (caraterísticas/variáveis)
-3. **Métodos** (ações/funções)
 
 
 Exemplo visual de uma classe detalhada:
